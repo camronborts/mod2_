@@ -13,6 +13,25 @@ h1 {
 	box-sizing: border-box;
 }
 
+.finibus {
+	color: black;
+	font-family: helvetica;
+
+}
+
+
+.malorum {
+	color: black;
+	font-family: helvetica;
+
+}
+
+.lorem {
+	color: black;
+	font-family: helvetica;
+
+}
+
 #box {
 	background-color: beige;
 	padding: 10px, 10px, 10px, 10px;
@@ -54,25 +73,6 @@ h1 {
 	color: black;
 	font-family: helvetica;
 	margin: 10px;
-
-}
-
-.finibus {
-	color: black;
-	font-family: helvetica;
-
-}
-
-
-.malorum {
-	color: black;
-	font-family: helvetica;
-
-}
-
-.lorem {
-	color: black;
-	font-family: helvetica;
 
 }
 

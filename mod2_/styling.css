@@ -6,6 +6,7 @@ body {
 h1 {
 	color: black;
 	font-family: helvetica;
+	margin: 30px;
 }
 
 * {
@@ -23,29 +24,36 @@ h1 {
 	background-color: white;
 	padding: 3px;
 	border: 2px solid black;
-	width: 50px;
+	width: 70px;
 	text-align: center;
+	margin-left: -2px;
+	margin-top: -2px;
 }
 
 #box2 {
 	background-color: white;
 	padding: 3px;
 	border: 2px solid black;
-	width: 55px;
+	width: 70px;
 	text-align: center;
+	margin-left: -2px;
+	margin-top: -2px;
 }
 
 #box3 {
 	background-color: white;
 	padding: 3px;
 	border: 2px solid black;
-	width: 50px;
+	width: 70px;
 	text-align: center;
+	margin-left: -2px;
+	margin-top: -2px;
 }
 #content {
 	color: black;
 	font-family: helvetica;
 	padding-bottom: 10px;
+
 }
 
 .finibus {

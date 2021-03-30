@@ -14,14 +14,14 @@ h1 {
 	background-color: beige;
 	padding: 10px, 10px, 10px, 10px;
 	border: 2px solid black;
-	margin: 20px;
-
+	margin: 10px;
 }
 
 #content {
 	color: black;
 	font-family: helvetica;
 	font-size: 25%;
+	padding-bottom: 10px;
 }
 
 .finibus {

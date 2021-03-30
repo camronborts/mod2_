@@ -20,6 +20,7 @@ header {
 .finibus {
 	color: black;
 	font-family: helvetica;
+	background-color: red;
 
 }
 
@@ -27,12 +28,14 @@ header {
 .malorum {
 	color: black;
 	font-family: helvetica;
+	background-color: orange;
 
 }
 
 .lorem {
 	color: black;
 	font-family: helvetica;
+	background-color: pink;
 
 }
 
@@ -76,8 +79,8 @@ header {
 #content {
 	color: black;
 	font-family: helvetica;
-	margin: 10px;
-
+	margin: 5px;
+	padding-top: 0px;
 }
 
 /* Large devices */

@@ -3,10 +3,14 @@ body {
 	margin: 0;
 	padding: 0;
 }
-h1 {
+
+header {
 	color: black;
 	font-family: helvetica;
+	font-size: 30px;
 	margin: 15px;
+	padding: 5px;
+	text-align: center;
 }
 
 * {

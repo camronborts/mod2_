@@ -5,7 +5,12 @@ h1 {
 }
 
 .finibus {
-	color: red;
+	color: black;
+	font-family: helvetica;
+}
+
+.malorum {
+	color: black;
 	font-family: helvetica;
 }
 

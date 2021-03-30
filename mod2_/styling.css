@@ -45,27 +45,26 @@ h1 {
 #content {
 	color: black;
 	font-family: helvetica;
-	font-size: 25%;
 	padding-bottom: 10px;
 }
 
 .finibus {
 	color: black;
 	font-family: helvetica;
-	font-size: 75%;
+
 }
 
 
 .malorum {
 	color: black;
 	font-family: helvetica;
-	font-size: 75%;
+
 }
 
 .lorem {
 	color: black;
 	font-family: helvetica;
-	font-size: 75%;
+
 }
 
 /* Large devices */

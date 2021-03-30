@@ -77,21 +77,15 @@ h1 {
 }
 
 /* Large devices */
-@media (min-width: 1200px) and (max-width: 1199px) {
-	#box1, #box2, #box3 {
+@media (min-width: 1px) and (max-width: 1199px) {
+	#box1, #box2, #box3, #content {
 		float: left;
-	}
-}
-/* Medium devices */
-@media (min-width: 768px) , (max-width: 991px) {
-	#box1, #box2, #box3 {
-		float: left;
-	}
+		width: 50%;
 }
 
-/*Small devices */
-@media (min-width: 767px) {
+@media (min-width: 768px) and (max-width: 991px) {
 	#box1, #box2, #box3 {
 		float: left;
+		width: 50%;
 	}
 }

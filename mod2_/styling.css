@@ -3,6 +3,12 @@ h1 {
 	font-family: Helvetica;
 	text-align: center
 }
+
+.finibus {
+	color: red;
+	font-family: helvetica;
+}
+
 /* Large devices */
 @media (min-width: 1200px) {
 

@@ -77,8 +77,8 @@ h1 {
 }
 
 /* Large devices */
-@media (min-width: 1px) and (max-width: 1199px) {
-	#box1, #box2, #box3, #content {
+@media (min-width: 1199px) and (max-width: 2000px) {
+	#box1, #box2, #box3, {
 		float: left;
 		width: 50%;
 }

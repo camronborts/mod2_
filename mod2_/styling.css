@@ -1,0 +1,16 @@
+h1 {
+	color: black;
+	font-family: Helvetica;
+	text-align: center
+}
+/* Large devices */
+@media (min-width: 1200px) {
+
+}
+/* Medium devices */
+@media (min-width: 950px) and (max-width: 1199px) {
+
+}
+
+/*Small devices */
+@media ()

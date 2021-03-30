@@ -8,7 +8,9 @@ h1 {
 	font-family: helvetica;
 }
 
-
+* {
+	box-sizing: border-box;
+}
 
 #box {
 	background-color: beige;
@@ -17,6 +19,29 @@ h1 {
 	margin: 10px;
 }
 
+#box1 {
+	background-color: white;
+	padding: 3px;
+	border: 2px solid black;
+	width: 50px;
+	text-align: center;
+}
+
+#box2 {
+	background-color: white;
+	padding: 3px;
+	border: 2px solid black;
+	width: 55px;
+	text-align: center;
+}
+
+#box3 {
+	background-color: white;
+	padding: 3px;
+	border: 2px solid black;
+	width: 50px;
+	text-align: center;
+}
 #content {
 	color: black;
 	font-family: helvetica;

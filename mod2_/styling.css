@@ -1,39 +1,46 @@
 body {
-	background-color: beige;
+	background-color: gray;
 	margin: 0;
 	padding: 0;
 }
 h1 {
 	color: black;
-	font-family: Helvetica;
-	text-align: center
+	font-family: helvetica;
 }
 
+
+
 #box {
-	background-color: gray;
+	background-color: beige;
 	padding: 10px, 10px, 10px, 10px;
-	border: 3px solid black;
-	margin: 40px;
+	border: 2px solid black;
+	margin: 20px;
 
 }
 
 #content {
 	color: black;
 	font-family: helvetica;
+	font-size: 25%;
 }
+
 .finibus {
 	color: black;
 	font-family: helvetica;
+	font-size: 75%;
 }
+
 
 .malorum {
 	color: black;
 	font-family: helvetica;
+	font-size: 75%;
 }
 
 .lorem {
 	color: black;
 	font-family: helvetica;
+	font-size: 75%;
 }
 
 /* Large devices */

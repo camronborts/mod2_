@@ -6,7 +6,6 @@ body {
 
 header {
 	color: black;
-	font-family: helvetica;
 	font-size: 30px;
 	font-weight: bold;
 	margin: 15px;
@@ -16,28 +15,24 @@ header {
 
 * {
 	box-sizing: border-box;
+	font-family: helvetica;
+	display: block;
 }
 
 .finibus {
 	color: black;
-	font-family: helvetica;
 	background-color: red;
-
-
 
 }
 
-
 .malorum {
 	color: black;
-	font-family: helvetica;
 	background-color: orange;
 
 }
 
 .lorem {
 	color: black;
-	font-family: helvetica;
 	background-color: pink;
 
 }
@@ -55,7 +50,7 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-right: -2px;
+	margin-left: 901px;
 	margin-top: -2px;
 
 }
@@ -66,7 +61,7 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-right: -2px;
+	margin-left: 2px;
 	margin-top: -2px;
 }
 
@@ -76,11 +71,10 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-right: -2px;
+	margin-right: 2px;
 	margin-top: -2px;
 }
 #content {
 	color: black;
-	font-family: helvetica;
 	margin: 5px;
 	padding-top: 0px;

@@ -23,6 +23,8 @@ header {
 	font-family: helvetica;
 	background-color: red;
 
+
+
 }
 
 
@@ -53,7 +55,7 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-left: -2px;
+	margin-right: -2px;
 	margin-top: -2px;
 
 }
@@ -64,7 +66,7 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-left: -2px;
+	margin-right: -2px;
 	margin-top: -2px;
 }
 
@@ -74,7 +76,7 @@ header {
 	border: 2px solid black;
 	width: 70px;
 	text-align: center;
-	margin-left: -2px;
+	margin-right: -2px;
 	margin-top: -2px;
 }
 #content {
@@ -82,28 +84,3 @@ header {
 	font-family: helvetica;
 	margin: 5px;
 	padding-top: 0px;
-}
-
-/* Large devices */
-@media (max-width: 2000px) {
-	#box1, #box2, #box3 {
-		float: left;
-
-		flex-direction: row;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-	#box1, #box2, #box3 {
-		float: left;
-
-		flex-direction: row;
-	}
-
-@media (max-width: 766px) {
-	#box1, #box2, #box3 {
-		float: left;
-
-		flex-direction: row;
-	}
-
-}
